@@ -1,0 +1,26 @@
+<table border="1">
+    <thead>
+     <tr>
+         <th>First Name</th>
+         <th>lastName</th>
+         <th>email</th>
+         <th>phoneNo</th>
+         <th>address</th>
+         <th>paymentmode</th>
+         <th>Actions</th>
+     </tr>
+    </thead>
+ 
+ <tbody>
+     <tr *ngFor="let user of myordersModels">
+         <td>{{user.firstName}}</td>
+         <td>{{user.lastName}}</td>
+         <td>{{user.email}}</td>
+         <td>{{user.phoneNo}}</td>
+         <td>{{user.address}}</td>
+         <td>{{user.paymentmode}}</td>
+         <td><input type="button" value="View Details" (click)="ViewDetails(user.id)" /></td>
+         
+     </tr>
+ </tbody>
+ </table>

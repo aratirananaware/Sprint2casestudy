@@ -1,0 +1,234 @@
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.exe
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.deps.json
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.runtimeconfig.json
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.runtimeconfig.dev.json
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.pdb
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.AssemblyReference.cache
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.AssemblyInfoInputs.cache
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.AssemblyInfo.cs
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.CoreCompileInputs.cache
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\staticwebassets\FoodProjectApi.StaticWebAssets.Manifest.cache
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\staticwebassets\FoodProjectApi.StaticWebAssets.xml
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\FoodProjectApi.styles.css
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.RazorTargetAssemblyInfo.cache
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.CopyComplete
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.pdb
+F:\Dot Net\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.genruntimeconfig.cache
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Core.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\Dot Net\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.exe
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.deps.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.runtimeconfig.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.runtimeconfig.dev.json
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.AssemblyInfoInputs.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.AssemblyInfo.cs
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.CoreCompileInputs.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\staticwebassets\FoodProjectApi.StaticWebAssets.Manifest.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\staticwebassets\FoodProjectApi.StaticWebAssets.xml
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\FoodProjectApi.styles.css
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.RazorTargetAssemblyInfo.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.CopyComplete
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.dll
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.pdb
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.genruntimeconfig.cache
+C:\Users\LEVEL UP SOLUTIONS 1\Desktop\Case-Studies\Group-5\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.AssemblyReference.cache
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.exe
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.deps.json
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.runtimeconfig.json
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.runtimeconfig.dev.json
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\FoodProjectApi.pdb
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Core.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.AssemblyReference.cache
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.AssemblyInfoInputs.cache
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.AssemblyInfo.cs
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.CoreCompileInputs.cache
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.MvcApplicationPartsAssemblyInfo.cs
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.MvcApplicationPartsAssemblyInfo.cache
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\staticwebassets\FoodProjectApi.StaticWebAssets.Manifest.cache
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\staticwebassets\FoodProjectApi.StaticWebAssets.xml
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\FoodProjectApi.styles.css
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.RazorTargetAssemblyInfo.cache
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.csproj.CopyComplete
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.dll
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.pdb
+F:\food\case-study-group-5-food-order\FoodProjectApi\FoodProjectApi\obj\Debug\netcoreapp3.1\FoodProjectApi.genruntimeconfig.cache

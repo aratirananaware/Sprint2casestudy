@@ -1,0 +1,19 @@
+
+  <div class="login-wrapper">
+    <form action="" [formGroup]="loginUserData.formLoginGroup" class="form">
+      <h2>Login</h2>
+      <div class="input-group">
+        
+        <input [(ngModel)]="loginUserData.userName" formControlName="UserNameControl" placeholder="UserName" type="text" name="loginUser" id="loginUser" required />
+        <p style="color: red;" [hidden]="!(hasError('required','UserNameControl'))">UserName is required</p>
+        <label for="loginUser"></label>
+       
+      </div>
+      <div class="input-group">
+        <input [(ngModel)]="loginUserData.password" formControlName="PasswordControl" placeholder="Password" type="password" name="loginPassword" id="loginPassword" required />
+        <p style="color: red;" [hidden]="!(hasError('required','PasswordControl'))">Password is required</p>
+        <label for="loginPassword"></label>
+      </div>
+      <input (click)="LoginUser()" [disabled]="!(loginUserData.formLoginGroup.valid)" type="submit" value="Login" class="submit-btn" />
+    </form>
+  </div>

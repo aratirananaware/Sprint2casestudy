@@ -1,0 +1,26 @@
+<table border="1">
+    <thead>
+     <tr>
+         <th>foodName</th>
+         <th>foodDescription</th>
+         <th>restaurantName</th>
+         <th>foodQty</th>
+         <th>foodMrp</th>
+         <th>foodFinal</th>
+         <th>Actions</th>
+     </tr>
+    </thead>
+ 
+ <tbody>
+     <tr *ngFor="let user of myordersDetailsModels">
+         <td>{{user.foodName}}</td>
+         <td>{{user.foodDescription}}</td>
+         <td>{{user.restaurantName}}</td>
+         <td>{{user.foodQty}}</td>
+         <td>{{user.foodMrp}}</td>
+         <td>{{user.foodFinal}}</td>
+         <td><input type="button" value="Cancel Order" (click)="CancelOrder(user.id)" /></td>
+         
+     </tr>
+ </tbody>
+ </table>

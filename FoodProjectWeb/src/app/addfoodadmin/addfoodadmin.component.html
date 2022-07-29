@@ -1,0 +1,49 @@
+
+
+<html>
+    <body>
+        <div class="column">
+
+            <table border="2">
+                
+                <tr style="background-color:grey">
+                    <td style="padding: 10px;">Restaurant Name</td>
+                    <td style="padding:10px;"> Food Name</td>
+                    <td style="padding: 10px;"> Description</td>
+                    <td style="padding: 10px;">Place</td>
+                    <td style="padding: 10px;"> Image</td>
+                    <td style="padding: 10px;"> Price</td>
+                    <td style="padding: 10px;"> Discount</td>
+                    <td style="padding: 10px;"> Final</td>
+                    <td style="padding: 10px;"> Quantity</td>
+                    <td style="padding: 10px;"> Action</td>
+
+                </tr>
+                <tr *ngFor="let item of addfoods" style="background-color: lightgrey;">
+                    <td>{{item.restaurantName}}</td>
+                    <td>{{item.foodName}}</td>
+                    <td>{{item.foodDescription}}</td>
+                    <td>{{item.place}}</td>
+                    <td><img src="{{item.foodImage}}" height="10%" width="10%"/></td>
+                    <td>{{item.foodMrp}}</td>
+                    <td>{{item.foodDiscount}}</td>
+                    <td>{{item.foodFinal}}</td>
+                    <td>{{item.foodQuantity}}</td>
+                    <!--<td><input  type="button" (click)="EditFood(item)" value="Approve"></td>
+                    <input type="button" value="Delete" (click)="DeleteCustomer(item)" />-->
+                    
+                    <td>
+                        
+                        <input type="button" [hidden]="(item.isActive==1)?true:false" value="Add"  (click)="AddFood(item)" value="Approve"/>
+                        <label [hidden]="(item.isActive==1)?false:true" >Approved</label>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    
+   
+        <a  class="btn btn-primary" routerLink="/adashboard">Go Back</a>
+
+</body>
+
+</html>

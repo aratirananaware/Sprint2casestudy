@@ -1,0 +1,104 @@
+
+
+<!DOCTYPE html>
+<html>
+<style>
+    table,
+    th,
+    td {
+        border: 1px solid black;
+    }
+</style>
+
+<body>
+    <div class="row">
+        <div class="column">
+            <table>
+                <tr>
+                    <td> Food Name</td>
+                    <td>
+                        <input [(ngModel)]="addfood.foodName" type="text">
+                    </td>
+                </tr>
+                <tr>
+                    <td> Description</td>
+                    <td>
+                        <input [(ngModel)]="addfood.foodDescription" type="text">
+                    </td>
+                </tr>
+                <tr>
+                    <td> Place</td>
+                    <td>
+                        <input [(ngModel)]="addfood.place" type="text">
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td> Image</td>
+                    <td>
+                        <input type="file" (change)="onFileChanged($event)" [(ngModel)]="addfood.foodImage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Food Mrp</td>
+                    <td>
+                        <input [(ngModel)]="addfood.foodMrp" type="text">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Food Discount</td>
+                    <td>
+                        <input [(ngModel)]="addfood.foodDiscount" type="text">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Food Final</td>
+                    <td>
+                        <input [(ngModel)]="addfood.foodFinal" type="text">
+                    </td>
+                </tr>
+            
+        
+
+                <input type="submit" (click)="AddFood()">
+                
+            </table>
+        </div>
+        <div class="column">
+
+            <table border="2">
+                
+                
+                <tr style="background-color:grey">
+                    <td style="padding: 10px;">Restaurant Name</td>
+                    <td style="padding:10px;"> Food Name</td>
+                    <td style="padding: 10px;"> Description</td>
+                    <td style="padding: 10px;">Place</td>
+                    <td style="padding: 10px;"> Image</td>
+                    <td style="padding: 10px;"> Price</td>
+                    <td style="padding: 10px;"> Discount</td>
+                    <td style="padding: 10px;"> Final</td>
+                    <td style="padding: 10px;"> Is Active</td>
+                    
+
+                </tr>
+                <tr *ngFor="let item of addfoods" style="background-color: lightgrey;">
+                    <td>{{item.restaurantName}}</td>
+                    <td>{{item.foodName}}</td>
+                    <td>{{item.foodDescription}}</td>
+                    <td>{{item.place}}</td>
+                    <td><img src="{{item.foodImage}}" height="10%" width="10%"/></td>
+                    <td>{{item.foodMrp}}</td>
+                    <td>{{item.foodDiscount}}</td>
+                    <td>{{item.foodFinal}}</td>
+                    <td>{{item.isActive}}</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <li class="nav-item">
+        <a class="nav-link"  routerLink="/dashboard">Go Back</a>
+      </li>
+</body>
+
+</html>

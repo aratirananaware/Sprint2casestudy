@@ -1,0 +1,15 @@
+<div class="row mt-5">
+    <div class="col-md-4 mb-3" *ngFor="let product of products | filter:searchKey:'restaurantName'">
+         <div class="card" style="width: 15rem;" style="background-color:rgb(179, 84, 84);">
+            <h5 class="card-title">{{product.restaurantName}}</h5>
+             <img class="card-img-top" src="{{product.foodImage}}" alt="Card image cap" width="100px" height="200px">
+             <div class="card-body">
+                 <h5 class="card-title">{{product.foodName}}</h5>
+                 <p class="card-text">{{product.foodDescription}}</p>
+                 <p class="card-text">{{product.foodPrice |currency:'₹'}}</p>
+                 <a  class="btn btn-primary" (click)="buy(product)" [hidden]="LoggedIn(true)" routerLink="/login">Add to cart</a>
+                 <a  class="btn btn-primary" (click)="buy(product)" *ngIf="LoggedIn(true)" routerLink="/cart">Add to cart</a>
+             </div>
+         </div>
+     </div>
+ </div> 
